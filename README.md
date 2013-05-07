@@ -1,7 +1,7 @@
 GRedisLock
 ==========
 
-Gevent Frieldly Redis Lock with extensive tests
+Gevent Friendly Redis Lock with extensive tests
 
 How it works?
 -------------
